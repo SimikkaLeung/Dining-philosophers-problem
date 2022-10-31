@@ -1,0 +1,706 @@
+How many philosophers do you want to create? Please enter an integer that is larger than 1.
+
+
+4 philosopher(s) came in for a dinner.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 1    Phil: 2 Priority: 2    Phil: 3 Priority: 3    Phil: 4 Priority: 4    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 3    
+Philosopher 1 has started eating.
+Philosopher 4 is hungry but their chopsticks are not available.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 3    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 2 is hungry but their chopsticks are not available.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 4 is hungry but they let philosopher 2 eat first.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 2 is hungry but their chopsticks are not available.
+Philosopher 1 has started sleeping.
+Philosopher 4 is hungry but they let philosopher 2 eat first.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 2 is hungry but their chopsticks are not available.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 4 is hungry but they let philosopher 2 eat first.
+Philosopher 3 has started sleeping.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 1    Phil: 2 Priority: 3    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 4 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 2 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 has done talking.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 1    Phil: 2 Priority: 3    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 2    Phil: 3 Priority: 1    Phil: 4 Priority: 3    
+Philosopher 1 has started eating.
+Philosopher 4 has started talking.
+Philosopher 4 says: My number is 4
+Philosopher 4 has done talking.
+Philosopher 4 is hungry but their chopsticks are not available.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 4 is hungry but their chopsticks are not available.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 1 has started sleeping.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 2    Phil: 3 Priority: 1    Phil: 4 Priority: 3    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 2    Phil: 3 Priority: 1    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: You know, true is false and false is true if you think of it
+Philosopher 2 has done talking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 2    Phil: 3 Priority: 1    Phil: 4 Priority: 4    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 1    Phil: 4 Priority: 3    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 4 has started talking.
+Philosopher 2 has started thinking.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 has done talking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 1    Phil: 4 Priority: 3    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 1    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 4 has started sleeping.
+Philosopher 2 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 4 has started talking.
+Philosopher 4 says: My number is 4
+Philosopher 4 has done talking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 1    Phil: 4 Priority: 4    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 1    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 2 has started talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 has done talking.
+Philosopher 4 has started thinking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 1    Phil: 4 Priority: 4    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 1    Phil: 4 Priority: 3    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 4 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 2 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 has done talking.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 1    Phil: 4 Priority: 3    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 3    Phil: 3 Priority: 1    Phil: 4 Priority: 2    
+Philosopher 1 has started eating.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 has done talking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 3    Phil: 3 Priority: 1    Phil: 4 Priority: 2    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 4    Phil: 3 Priority: 1    Phil: 4 Priority: 2    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: My number is 3
+Philosopher 3 has done talking.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 4    Phil: 3 Priority: 1    Phil: 4 Priority: 2    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 2 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 has done talking.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 2    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+Philosopher 1 has started eating.
+Philosopher 1 has started sleeping.
+Philosopher 3 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 has done talking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 2    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 4    Phil: 3 Priority: 2    Phil: 4 Priority: 1    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 has done talking.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 4    Phil: 3 Priority: 2    Phil: 4 Priority: 1    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 2 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 3 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 3 has done talking.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: My number is 2
+Philosopher 2 has done talking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 3    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 3 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 2 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 has done talking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 2 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 has done talking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+Philosopher 2 has started eating.
+Philosopher 1 has started talking.
+Philosopher 1 says: My number is 1
+Philosopher 1 has done talking.
+Philosopher 1 is hungry but their chopsticks are not available.
+Philosopher 3 has started talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 has done talking.
+Philosopher 3 is hungry but they let philosopher 1 eat first.
+Philosopher 1 is hungry but their chopsticks are not available.
+Philosopher 4 has started talking.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 has done talking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 1    Phil: 2 Priority: 3    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 4 has started sleeping.
+Philosopher 3 is hungry but they let philosopher 1 eat first.
+Philosopher 2 has started sleeping.
+Philosopher 1 is hungry but their chopsticks are not available.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 2 has started sleeping.
+Philosopher 3 is hungry but they let philosopher 1 eat first.
+Philosopher 1 is hungry but their chopsticks are not available.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 3 is hungry but they let philosopher 1 eat first.
+Philosopher 1 is hungry but their chopsticks are not available.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 1    Phil: 2 Priority: 3    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 2    Phil: 3 Priority: 1    Phil: 4 Priority: 3    
+Philosopher 1 has started eating.
+Philosopher 1 has started sleeping.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 2    Phil: 3 Priority: 1    Phil: 4 Priority: 3    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 1 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 3 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 has done talking.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 3 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 2 has started talking.
+Philosopher 3 has done thinking.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 has done talking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 has done talking.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 4    Phil: 3 Priority: 3    Phil: 4 Priority: 1    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 3    Phil: 3 Priority: 2    Phil: 4 Priority: 1    
+Philosopher 1 has started eating.
+Philosopher 1 has started sleeping.
+Philosopher 2 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 2 has started talking.
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 has done talking.
+Philosopher 2 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 2 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 3    Phil: 3 Priority: 2    Phil: 4 Priority: 1    
+The priority list after philosopher 2 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 4    Phil: 3 Priority: 2    Phil: 4 Priority: 1    
+Philosopher 2 has started eating.
+Philosopher 2 has started sleeping.
+Philosopher 1 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done eating.
+Philosopher 2 has put down a pepper shaker on the table.
+Philosopher 2 has started thinking.
+Philosopher 2 has started sleeping.
+Philosopher 2 has done sleeping.
+Philosopher 2 has done thinking.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 has done talking.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 4    Phil: 3 Priority: 2    Phil: 4 Priority: 1    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 3    Phil: 3 Priority: 2    Phil: 4 Priority: 1    
+Philosopher 1 has started eating.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 has done talking.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 3    Phil: 3 Priority: 2    Phil: 4 Priority: 1    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 2    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 3 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 has done talking.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 2    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 2    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 4 has started talking.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 has done talking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 2    Phil: 3 Priority: 4    Phil: 4 Priority: 1    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 1    Phil: 3 Priority: 3    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 4 has started sleeping.
+Philosopher 3 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 4 has started talking.
+Philosopher 4 says: You know, true is false and false is true if you think of it
+Philosopher 4 has done talking.
+Philosopher 3 has started talking.
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 has done talking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 1    Phil: 3 Priority: 3    Phil: 4 Priority: 4    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 1    Phil: 3 Priority: 3    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 3 is hungry but their chopsticks are not available.
+Philosopher 1 has started talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 has done talking.
+Philosopher 4 has started sleeping.
+Philosopher 1 is hungry but their chopsticks are not available.
+Philosopher 3 is hungry but they let philosopher 1 eat first.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 2    Phil: 2 Priority: 1    Phil: 3 Priority: 3    Phil: 4 Priority: 4    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 3    
+Philosopher 1 has started eating.
+Philosopher 1 has started sleeping.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 3    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 1 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 3 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: If thee cannot speak, thee must be silent
+Philosopher 1 has done talking.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 1    Phil: 3 Priority: 3    Phil: 4 Priority: 2    
+Philosopher 1 has started eating.
+Philosopher 3 has started talking.
+Philosopher 3 says: My number is 3
+Philosopher 3 has done talking.
+Philosopher 3 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 3 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 1    Phil: 3 Priority: 3    Phil: 4 Priority: 2    
+The priority list after philosopher 3 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+Philosopher 3 has started eating.
+Philosopher 3 has started sleeping.
+Philosopher 1 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done eating.
+Philosopher 3 has put down a pepper shaker on the table.
+Philosopher 3 has started thinking.
+Philosopher 3 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 1 has started sleeping.
+Philosopher 3 has done sleeping.
+Philosopher 3 has done thinking.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 1 has started talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 has done talking.
+Philosopher 1 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 1 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 4    Phil: 4 Priority: 2    
+The priority list after philosopher 1 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 1    Phil: 3 Priority: 3    Phil: 4 Priority: 2    
+Philosopher 1 has started eating.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done eating.
+Philosopher 1 has put down a pepper shaker on the table.
+Philosopher 1 has started thinking.
+Philosopher 1 has started sleeping.
+Philosopher 1 has done sleeping.
+Philosopher 1 has done thinking.
+Philosopher 3 has started talking.
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 has done talking.
+Philosopher 2 has started talking.
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 2 has done talking.
+Philosopher 4 has started talking.
+Philosopher 4 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 4 has done talking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 4    Phil: 2 Priority: 1    Phil: 3 Priority: 3    Phil: 4 Priority: 2    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 1 has started talking.
+Philosopher 1 says: You know, true is false and false is true if you think of it
+Philosopher 1 has done talking.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 4 has started talking.
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 has done talking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 4 has started talking.
+Philosopher 4 says: My number is 4
+Philosopher 4 has done talking.
+Philosopher 4 is hungry and it's their turn to eat. They can also use a pepper shaker.
+The priority list before philosopher 4 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+The priority list after philosopher 4 starts eating:
+Phil: 1 Priority: 3    Phil: 2 Priority: 1    Phil: 3 Priority: 2    Phil: 4 Priority: 4    
+Philosopher 4 has started eating.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done eating.
+Philosopher 4 has put down a pepper shaker on the table.
+Philosopher 4 has started thinking.
+Philosopher 4 has started sleeping.
+Philosopher 4 has done sleeping.
+Philosopher 4 has done thinking.
+Philosopher 4 has started talking.
+Philosopher 4 says: My number is 4
+Philosopher 4 has done talking.
+All philosophers have left. System terminates normally.
