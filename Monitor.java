@@ -16,8 +16,7 @@ public class Monitor
 	 * Data members
 	 * ------------
 	 */
-	
-	
+		
 	public static int chopsticks;		// Task 2
 	
 	enum aState {THINKING, HUNGRY, EATING, TALKING} ;		// Task 2
